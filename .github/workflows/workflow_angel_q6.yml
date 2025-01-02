@@ -11,6 +11,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
       - name: URL al repositorio
-        run: echo "Repositorio: https://github.com/angelblat/angelblat.github.io"
+        run: echo "Repositorio:https://github.com/angelblat/angelblat.github.io"
       - name: URL al historial de mi workflow runs
-        run: echo "Historial de Workflows: https://github.com/angelblat/angelblat.github.io/actions"
+        run: echo "Historial de Workflows:https://github.com/angelblat/angelblat.github.io/actions"
